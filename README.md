@@ -1,15 +1,16 @@
-# Project Portfolio
+# Personal Projects Portfolio
 
 A selection of projects focused on game development, software
 architecture, and algorithmic problem solving.
 
 ## 1. SFML3 currently workin on C++ Game Systems
 
-A custom 2D top-down game built with SFML 3, featuring a data-driven
-world pipeline and modular gameplay simulation. The project includes an
-ECS architecture, navigation and pathfinding, collision handling,
-combat, worker/resource systems, and a layered rendering pipeline with
-LDTK integration.
+A custom 2D topdown game built with SFML 3(c++), featuring a data driven
+world pipeline and modular gameplay simulation. Instead of using Unity Libraries, 
+I have tried to built my own UnityEngine.UI - Collision - NineSlice classes etc. 
+and The project includes an ECS architecture, navigation and pathfinding, 
+collision handling, combat, worker/resource systems, and a layered rendering pipeline with
+LDTK integration. LDTK used for designing levels.
 
 **Tech stack:** C++, SFML 3, ECS, A\* pathfinding, LDTK, CMake/Visual
 Studio.
@@ -36,7 +37,7 @@ REST API.
 ## 4. Gamble Simulation
 
 A zone based wheel and reward game with bomb based run endings, revive
-options, zone progression, and player-profile integration. The Unity
+options, zone progression, and player profile integration. The Unity
 client communicates with an ASP.NET Core backend, while configurable
 policies and strategy pipelines handle economy rules, cooldowns, wheel
 selection, and user segmentation.
@@ -49,9 +50,9 @@ DOTween.
 ## Areas of Focus
 
 -   **Game development:** gameplay systems, state machines, animation
-    integration, and data-driven design.
+    integration, and data driven design.
 -   **Software architecture:** Clean Architecture, ECS, dependency
-    injection, repositories, strategies, and event-driven communication.
+    injection, repositories, strategies, and event driven communication.
 -   **Algorithms and systems:** A\* navigation, grid algorithms,
     collision handling, simulation pipelines, and rendering
     optimization.
