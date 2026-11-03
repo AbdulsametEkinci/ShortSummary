@@ -6,11 +6,11 @@ architecture, and algorithmic problem solving.
 ## 1. SFML3 currently workin on C++ Game Systems
 
 A custom 2D topdown game built with SFML 3(c++), featuring a data driven
-world pipeline and modular gameplay simulation. Instead of using Unity Libraries, 
-I have tried to built my own UnityEngine.UI - Collision - NineSlice classes etc. 
-and The project includes an ECS architecture, navigation and pathfinding, 
-collision handling, combat, worker/resource systems, and a layered rendering pipeline with
-LDTK integration. LDTK used for designing levels.
+world pipeline and modular gameplay simulation. *Instead of using Unity Libraries, 
+I have tried to built my own UnityEngine.UI - Collision - NineSlice classes etc.* 
+to understand systems more roubst and The project includes an ECS architecture, 
+navigation and pathfinding, collision handling, combat, worker/resource systems, 
+and a layered rendering pipeline with LDTK integration. LDTK used for designing levels.
 
 **Tech stack:** C++, SFML 3, ECS, A\* pathfinding, LDTK, CMake/Visual
 Studio.
