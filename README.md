@@ -1,3 +1,4 @@
+<img width="900" height="1602" alt="cardaktan_maybach" src="https://github.com/user-attachments/assets/5fb83a52-1807-4d3f-ac7d-d297b4c586ae" />
 # Personal Projects Portfolio
 
 A selection of projects focused on game development, software
